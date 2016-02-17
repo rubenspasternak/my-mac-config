@@ -36,6 +36,9 @@ alias ll='ls -la'
 ## Show hidden files
 alias l.='ls -d .*'
 
+## cURL with a break line
+alias curl='curl -w \\n'
+
 ## Sublime Text
 alias subl="open -a /Applications/Sublime\ Text.app"
 
